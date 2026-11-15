@@ -13,7 +13,8 @@ Softwareunternehmen aus St. Leon-Rot bei Heidelberg. Wir entwickeln Kundenportal
 
 **Öffentliche Projekte**
 
-- [fahrzeugauswahl-demo](https://github.com/NOVU-Systems-GmbH/fahrzeugauswahl-demo): Vorführung, warum Teileshops nach Auto statt nach Lochkreis suchen lassen sollten
+- [fahrzeugauswahl-demo](https://github.com/NOVU-Systems-GmbH/fahrzeugauswahl-demo): Vorführung, warum Teileshops nach Auto statt nach Lochkreis suchen lassen sollten ([live](https://novu-systems-gmbh.github.io/fahrzeugauswahl-demo/))
+- [e-rechnung-fristcheck](https://github.com/NOVU-Systems-GmbH/e-rechnung-fristcheck): In drei Fragen zur eigenen E-Rechnungs-Frist 2027/2028 ([live](https://novu-systems-gmbh.github.io/e-rechnung-fristcheck/))
 
 **Mehr**
 
